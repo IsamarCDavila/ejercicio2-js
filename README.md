@@ -2,12 +2,15 @@
 
 ## inicio: promedio
  
-##Ingreso datos
+## Ingreso datos
+
 - num1
 - num2
 - num3
 - promedio
-##proceso
+
+## proceso
+
  - pedir num1
  - pedir num2
  - pedir num3
